@@ -1,4 +1,4 @@
 ![covers!](https://github.com/brlockwood/ProbabilityBot/blob/main/cover.jpeg?raw=true)
 
 # ProbabilityBot
-Mastodon bot that posts randomly-generated probability distributions to the fediverse
+A simple Mastodon bot that posts quotes from books by Murray Bookchin ([@ProbabilityBot@botsin.space](https://botsin.space/@ProbabilityBot))
